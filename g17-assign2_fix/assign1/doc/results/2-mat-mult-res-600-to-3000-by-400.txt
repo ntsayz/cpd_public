@@ -1,0 +1,119 @@
+Running with size: 600
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+Selection?: Dimensions: lins=cols ? Time: 0.100 seconds
+Result matrix: 
+180300 180300 180300 180300 180300 180300 180300 180300 180300 180300 
+L1 DCM: 27622971 
+L2 DCM: 194850 
+TOT INS: 1733472466 
+TOT CYC: 449580242 
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+Selection?: FAIL destroy
+Running with size: 1000
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+Selection?: Dimensions: lins=cols ? Time: 0.483 seconds
+Result matrix: 
+500500 500500 500500 500500 500500 500500 500500 500500 500500 500500 
+L1 DCM: 128432519 
+L2 DCM: 918339 
+TOT INS: 8015093021 
+TOT CYC: 2165427368 
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+Selection?: FAIL destroy
+Running with size: 1400
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+Selection?: Dimensions: lins=cols ? Time: 1.317 seconds
+Result matrix: 
+980700 980700 980700 980700 980700 980700 980700 980700 980700 980700 
+L1 DCM: 355366441 
+L2 DCM: 3324190 
+TOT INS: 21981513546 
+TOT CYC: 5870880734 
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+Selection?: FAIL destroy
+Running with size: 1800
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+Selection?: Dimensions: lins=cols ? Time: 2.852 seconds
+Result matrix: 
+1.6209e+06 1.6209e+06 1.6209e+06 1.6209e+06 1.6209e+06 1.6209e+06 1.6209e+06 1.6209e+06 1.6209e+06 1.6209e+06 
+L1 DCM: 768413124 
+L2 DCM: 9806857 
+TOT INS: 46704734400 
+TOT CYC: 12716684538 
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+Selection?: FAIL destroy
+Running with size: 2200
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+Selection?: Dimensions: lins=cols ? Time: 5.183 seconds
+Result matrix: 
+2.4211e+06 2.4211e+06 2.4211e+06 2.4211e+06 2.4211e+06 2.4211e+06 2.4211e+06 2.4211e+06 2.4211e+06 2.4211e+06 
+L1 DCM: 2005710320 
+L2 DCM: 1517494 
+TOT INS: 85256755668 
+TOT CYC: 23190291708 
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+Selection?: FAIL destroy
+Running with size: 2600
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+Selection?: Dimensions: lins=cols ? Time: 8.457 seconds
+Result matrix: 
+3.3813e+06 3.3813e+06 3.3813e+06 3.3813e+06 3.3813e+06 3.3813e+06 3.3813e+06 3.3813e+06 3.3813e+06 3.3813e+06 
+L1 DCM: 4289632623 
+L2 DCM: 2256676 
+TOT INS: 140709577614 
+TOT CYC: 37689649102 
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+Selection?: FAIL destroy
+Running with size: 3000
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+Selection?: Dimensions: lins=cols ? Time: 12.933 seconds
+Result matrix: 
+4.5015e+06 4.5015e+06 4.5015e+06 4.5015e+06 4.5015e+06 4.5015e+06 4.5015e+06 4.5015e+06 4.5015e+06 4.5015e+06 
+L1 DCM: 6686800301 
+L2 DCM: 3039624 
+TOT INS: 216135199436 
+TOT CYC: 57711988800 
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+Selection?: FAIL destroy

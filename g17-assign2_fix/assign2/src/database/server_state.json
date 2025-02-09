@@ -1,0 +1,32 @@
+{
+  "activeConnections": [
+    {
+      "port": 53687,
+      "ip": "/127.0.0.1",
+      "username": "2"
+    },
+    {
+      "port": 53701,
+      "ip": "/127.0.0.1",
+      "username": "n"
+    }
+  ],
+  "tokenExpiryTimes": [
+    {
+      "expiry": 1716332538912,
+      "username": "n",
+      "token": "2e4b0fcd-77f2-43db-8dd5-0fa5c0dc0140"
+    },
+    {
+      "expiry": 1716332523499,
+      "username": "2",
+      "token": "832260a5-cf12-4cd7-b62e-8c1a8535c105"
+    },
+    {
+      "expiry": 1716332521967,
+      "username": "1",
+      "token": "f7ce4cb5-6506-4c6e-818e-f7ccb97b352d"
+    }
+  ],
+  "timestamp": 1716330747613
+}

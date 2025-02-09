@@ -1,0 +1,98 @@
+Running with size: 600
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+Selection?: Dimensions: lins=cols ? Multiplying using the OnMult method...
+Time: 0.247 seconds
+Result matrix:
+180300.0 180300.0 180300.0 180300.0 180300.0 180300.0 180300.0 180300.0 180300.0 180300.0 
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+Selection?: Program terminated.
+Running with size: 1000
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+Selection?: Dimensions: lins=cols ? Multiplying using the OnMult method...
+Time: 1.487 seconds
+Result matrix:
+500500.0 500500.0 500500.0 500500.0 500500.0 500500.0 500500.0 500500.0 500500.0 500500.0 
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+Selection?: Program terminated.
+Running with size: 1400
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+Selection?: Dimensions: lins=cols ? Multiplying using the OnMult method...
+Time: 5.695 seconds
+Result matrix:
+980700.0 980700.0 980700.0 980700.0 980700.0 980700.0 980700.0 980700.0 980700.0 980700.0 
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+Selection?: Program terminated.
+Running with size: 1800
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+Selection?: Dimensions: lins=cols ? Multiplying using the OnMult method...
+Time: 13.547 seconds
+Result matrix:
+1620900.0 1620900.0 1620900.0 1620900.0 1620900.0 1620900.0 1620900.0 1620900.0 1620900.0 1620900.0 
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+Selection?: Program terminated.
+Running with size: 2200
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+Selection?: Dimensions: lins=cols ? Multiplying using the OnMult method...
+Time: 25.837 seconds
+Result matrix:
+2421100.0 2421100.0 2421100.0 2421100.0 2421100.0 2421100.0 2421100.0 2421100.0 2421100.0 2421100.0 
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+Selection?: Program terminated.
+Running with size: 2600
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+Selection?: Dimensions: lins=cols ? Multiplying using the OnMult method...
+Time: 46.183 seconds
+Result matrix:
+3381300.0 3381300.0 3381300.0 3381300.0 3381300.0 3381300.0 3381300.0 3381300.0 3381300.0 3381300.0 
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+Selection?: Program terminated.
+Running with size: 3000
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+Selection?: Dimensions: lins=cols ? Multiplying using the OnMult method...
+Time: 73.379 seconds
+Result matrix:
+4501500.0 4501500.0 4501500.0 4501500.0 4501500.0 4501500.0 4501500.0 4501500.0 4501500.0 4501500.0 
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+Selection?: Program terminated.

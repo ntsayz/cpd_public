@@ -1,0 +1,20 @@
+{"users": [
+  {
+    "password": "1",
+    "rank": 505,
+    "username": "1",
+    "token": "f7ce4cb5-6506-4c6e-818e-f7ccb97b352d"
+  },
+  {
+    "password": "2",
+    "rank": 10,
+    "username": "2",
+    "token": "832260a5-cf12-4cd7-b62e-8c1a8535c105"
+  },
+  {
+    "password": "n",
+    "rank": 538,
+    "username": "n",
+    "token": "2e4b0fcd-77f2-43db-8dd5-0fa5c0dc0140"
+  }
+]}

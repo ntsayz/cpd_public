@@ -1,0 +1,91 @@
+Running with size: 600
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+Selection?: Dimensions: lins=cols ? Time: 0.170823758 seconds
+Result matrix:
+180300.0 180300.0 180300.0 180300.0 180300.0 180300.0 180300.0 180300.0 180300.0 180300.0 
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+Selection?: Program terminated.
+Running with size: 1000
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+Selection?: Dimensions: lins=cols ? Time: 0.804457076 seconds
+Result matrix:
+500500.0 500500.0 500500.0 500500.0 500500.0 500500.0 500500.0 500500.0 500500.0 500500.0 
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+Selection?: Program terminated.
+Running with size: 1400
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+Selection?: Dimensions: lins=cols ? Time: 2.284090227 seconds
+Result matrix:
+980700.0 980700.0 980700.0 980700.0 980700.0 980700.0 980700.0 980700.0 980700.0 980700.0 
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+Selection?: Program terminated.
+Running with size: 1800
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+Selection?: Dimensions: lins=cols ? Time: 5.324126712 seconds
+Result matrix:
+1620900.0 1620900.0 1620900.0 1620900.0 1620900.0 1620900.0 1620900.0 1620900.0 1620900.0 1620900.0 
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+Selection?: Program terminated.
+Running with size: 2200
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+Selection?: Dimensions: lins=cols ? Time: 11.311032392 seconds
+Result matrix:
+2421100.0 2421100.0 2421100.0 2421100.0 2421100.0 2421100.0 2421100.0 2421100.0 2421100.0 2421100.0 
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+Selection?: Program terminated.
+Running with size: 2600
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+Selection?: Dimensions: lins=cols ? Time: 19.302729104 seconds
+Result matrix:
+3381300.0 3381300.0 3381300.0 3381300.0 3381300.0 3381300.0 3381300.0 3381300.0 3381300.0 3381300.0 
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+Selection?: Program terminated.
+Running with size: 3000
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+Selection?: Dimensions: lins=cols ? Time: 29.913203224 seconds
+Result matrix:
+4501500.0 4501500.0 4501500.0 4501500.0 4501500.0 4501500.0 4501500.0 4501500.0 4501500.0 4501500.0 
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+Selection?: Program terminated.

@@ -1,0 +1,154 @@
+Running with size: 600
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+4. Line Multiplication Parallel Implementation 1
+5. Line Multiplication Parallel Implementation 2
+Selection?: Dimensions: lins=cols ? Time: 0.061 seconds
+Total FLOPs: 432000000
+Result matrix: 
+180300 180300 180300 180300 180300 180300 180300 180300 180300 180300 
+L1 DCM: 27657663 
+L2 DCM: 200527 
+TOT INS: 1733472947 
+TOT CYC: 272324082 
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+4. Line Multiplication Parallel Implementation 1
+5. Line Multiplication Parallel Implementation 2
+Selection?: FAIL destroy
+Running with size: 1000
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+4. Line Multiplication Parallel Implementation 1
+5. Line Multiplication Parallel Implementation 2
+Selection?: Dimensions: lins=cols ? Time: 0.308 seconds
+Total FLOPs: 2000000000
+Result matrix: 
+500500 500500 500500 500500 500500 500500 500500 500500 500500 500500 
+L1 DCM: 129162237 
+L2 DCM: 1194897 
+TOT INS: 8015092980 
+TOT CYC: 1364848162 
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+4. Line Multiplication Parallel Implementation 1
+5. Line Multiplication Parallel Implementation 2
+Selection?: FAIL destroy
+Running with size: 1400
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+4. Line Multiplication Parallel Implementation 1
+5. Line Multiplication Parallel Implementation 2
+Selection?: Dimensions: lins=cols ? Time: 0.886 seconds
+Total FLOPs: 5488000000
+Result matrix: 
+980700 980700 980700 980700 980700 980700 980700 980700 980700 980700 
+L1 DCM: 359980303 
+L2 DCM: 3380726 
+TOT INS: 21981513329 
+TOT CYC: 3922367837 
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+4. Line Multiplication Parallel Implementation 1
+5. Line Multiplication Parallel Implementation 2
+Selection?: FAIL destroy
+Running with size: 1800
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+4. Line Multiplication Parallel Implementation 1
+5. Line Multiplication Parallel Implementation 2
+Selection?: Dimensions: lins=cols ? Time: 1.940 seconds
+Total FLOPs: 11664000000
+Result matrix: 
+1.6209e+06 1.6209e+06 1.6209e+06 1.6209e+06 1.6209e+06 1.6209e+06 1.6209e+06 1.6209e+06 1.6209e+06 1.6209e+06 
+L1 DCM: 787659978 
+L2 DCM: 6267930 
+TOT INS: 46704733475 
+TOT CYC: 8593200900 
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+4. Line Multiplication Parallel Implementation 1
+5. Line Multiplication Parallel Implementation 2
+Selection?: FAIL destroy
+Running with size: 2200
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+4. Line Multiplication Parallel Implementation 1
+5. Line Multiplication Parallel Implementation 2
+Selection?: Dimensions: lins=cols ? Time: 3.514 seconds
+Total FLOPs: 21296000000
+Result matrix: 
+2.4211e+06 2.4211e+06 2.4211e+06 2.4211e+06 2.4211e+06 2.4211e+06 2.4211e+06 2.4211e+06 2.4211e+06 2.4211e+06 
+L1 DCM: 1930109549 
+L2 DCM: 1707839 
+TOT INS: 85256754632 
+TOT CYC: 15586326095 
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+4. Line Multiplication Parallel Implementation 1
+5. Line Multiplication Parallel Implementation 2
+Selection?: FAIL destroy
+Running with size: 2600
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+4. Line Multiplication Parallel Implementation 1
+5. Line Multiplication Parallel Implementation 2
+Selection?: Dimensions: lins=cols ? Time: 5.913 seconds
+Total FLOPs: 35152000000
+Result matrix: 
+3.3813e+06 3.3813e+06 3.3813e+06 3.3813e+06 3.3813e+06 3.3813e+06 3.3813e+06 3.3813e+06 3.3813e+06 3.3813e+06 
+L1 DCM: 3972413740 
+L2 DCM: 2603847 
+TOT INS: 140709574943 
+TOT CYC: 26130171329 
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+4. Line Multiplication Parallel Implementation 1
+5. Line Multiplication Parallel Implementation 2
+Selection?: FAIL destroy
+Running with size: 3000
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+4. Line Multiplication Parallel Implementation 1
+5. Line Multiplication Parallel Implementation 2
+Selection?: Dimensions: lins=cols ? Time: 9.207 seconds
+Total FLOPs: 54000000000
+Result matrix: 
+4.5015e+06 4.5015e+06 4.5015e+06 4.5015e+06 4.5015e+06 4.5015e+06 4.5015e+06 4.5015e+06 4.5015e+06 4.5015e+06 
+L1 DCM: 6468983290 
+L2 DCM: 4574560 
+TOT INS: 216135195930 
+TOT CYC: 40629478218 
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+4. Line Multiplication Parallel Implementation 1
+5. Line Multiplication Parallel Implementation 2
+Selection?: FAIL destroy
